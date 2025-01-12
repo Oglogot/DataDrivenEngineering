@@ -1,3 +1,4 @@
+import streamlit as st
 import pandas as pd
 import plotly.express as px
 from plotly.subplots import make_subplots
@@ -23,8 +24,8 @@ def plot_pie(df, column, title, colors):
     value_counts = df[column].value_counts()
     # Построение круговой диаграммы
     fig = px.pie(values=value_counts.values, names=value_counts.index, color_discrete_sequence=colors, title=title, height=600,  width=900)
-    # Сохранение графика
-    fig.show()
+    # Отображение графика
+    st.plotly_chart(fig)
 
 def plot_bar(df, column, title, colors):
     """
@@ -44,8 +45,8 @@ def plot_bar(df, column, title, colors):
                 color=value_counts.index, color_discrete_sequence=colors, 
                 title=title, labels={'x': '', 'y': 'Количество'}, height=600,  width=900)
     fig.update_layout(showlegend=False)
-    # Сохранение графика
-    fig.show()
+    # Отображение графика
+    st.plotly_chart(fig)
 
 
 # Анализ
@@ -73,7 +74,7 @@ violin_fig = px.violin(df, y="Stability t1/2, h",
 fig.add_trace(violin_fig['data'][0], row=1, col=2)
 # Настройка макета
 fig.update_layout(showlegend=True, title_text="Распределение значений периода полураспада", height=600,  width=1200) 
-fig.show()
+st.plotly_chart(fig)
 
 # Создание подграфиков
 fig = make_subplots(rows=1, cols=2, subplot_titles=("Гистограмма ", "Box Plot"), column_widths=[0.5, 0.5])
@@ -90,7 +91,7 @@ for trace in box_fig['data']:
     fig.add_trace(trace, row=1, col=2)
 # Настройка макета
 fig.update_layout(barmode='stack', showlegend=True, title_text="Распределение значений периода полураспада среди различных типов последовательностей", height=600,  width=1200) 
-fig.show()
+st.plotly_chart(fig)
 
 # Создание подграфиков
 fig = make_subplots(rows=1, cols=2, subplot_titles=("Гистограмма", "Box Plot"), column_widths=[0.5, 0.5])
@@ -107,7 +108,7 @@ for trace in box_fig['data']:
     fig.add_trace(trace, row=1, col=2)
 # Настройка макета
 fig.update_layout(barmode='stack', showlegend=True, title_text="Распределение значений периода полураспада среди модифицированных и немодифицированных последовательностей", height=600,  width=1200) 
-fig.show()
+st.plotly_chart(fig)
 
 # Создание подграфиков
 fig = make_subplots(rows=1, cols=2, subplot_titles=("Гистограмма ", "Box Plot"), column_widths=[0.5, 0.5])
@@ -129,7 +130,7 @@ for trace in box_fig['data']:
     fig.add_trace(trace, row=1, col=2)  # Добавляем каждый след на график
 # Настройка макета
 fig.update_layout(barmode='stack', showlegend=True, title_text="Распределение значений периода полураспада среди с учетом различных сред", height=600,  width=1200) 
-fig.show()
+st.plotly_chart(fig)
 
 #Построение пузырьковой диаграммы
 fig = px.scatter(df, x="Concentration of envi, %", y="Stability t1/2, h", color="Environment",
@@ -138,7 +139,7 @@ fig = px.scatter(df, x="Concentration of envi, %", y="Stability t1/2, h", color=
                 title='Зависимость периода полураспада от концентрации среды', height=600,  width=900
          )  
 #Вывод графика 
-fig.show()
+st.plotly_chart(fig)
 
 
 # Подсчет собранного количества модификаций
@@ -185,4 +186,4 @@ fig.update_layout(
 )
 fig.update_traces(textposition='outside')
 # Отображение графика
-fig.show()
+st.plotly_chart(fig)
