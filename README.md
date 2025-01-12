@@ -42,4 +42,4 @@
 
 ##  Развертывание на Streamlit Cloud
 
-Приложение развернуто на Streamlit Cloud по ссылке [ссылка на ваше приложение].
+Приложение развернуто на Streamlit Cloud по ссылке https://datadrivenengineering-jras4akq8jyk993gkx2rxp.streamlit.app/.
