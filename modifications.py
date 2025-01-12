@@ -1,4 +1,4 @@
-modifications_dict = {
+modifications = {
     'f' : "2'-fluoro",
     '1t' : "3'-monothio",
     '2t' : "3'-dithio",
@@ -13,7 +13,9 @@ modifications_dict = {
     'peg40' : "polyethylene glycol 40 kDa",
     'papeg20' : "polyamine-polyethylene glycol 20 kDa",
     'papeg40' : "polyamine-polyethylene glycol 40 kDa",
-    'halpeg' : "hexilamine linker from the picture with polyethylene glycol",
+    'mag2': "MAG2 (S-benzoylmercaptoacetylglycylglycyl) (Tc-99m)", #Это маркер
+    'hal' : "hexyl-aminolinker (5C-1N)",
+    'halpeg' : "hexylamine linker from the picture with polyethylene glycol",
     'hegl' : "hexaethylene glycol linker",
     'mp' : "methylphosphonate",
     'ome' : "2'-methoxy group",
@@ -29,6 +31,13 @@ modifications_dict = {
     '2fc' : "2'-difluoromethylene",
     'dspe' : "distearol-phosphotidylethanol",
     'dsa' : "docosanamine",
-    'thiol' : "5' thiol",
-    'lna' : "locked nucleic acid"
-}
+    'thiol' : "5'-thiol",
+    'lna' : "locked nucleic acid",
+    'l' : "L stereoisomer of sugar",
+    't4' : "4'-thio",
+    'am4' : "4'-amino",
+    'p32' : "phosphorus-32" # Это маркер
+    }
+
+# Может использовать маленькие/большие буквы для разметки модиф. и не модиф. нуклеотидов?
+# Обозначение модификации ставится ПЕРЕД обозначением модифицированного нуклеотида

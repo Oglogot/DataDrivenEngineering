@@ -1,0 +1,169 @@
+DOI,Name,Sequence,"Stability t1/2, h",Environment,"Concentration of envi, %","Temperature, oC",Type,Modified
+https://doi.org/10.1021/jacs.9b10460,GLB-A04,1tAFU1tGAFUFCAAFU1tFCGFCFCFUFCA1tAFUFUFCGAFCA2tGGAGGFC1tFUFC1tAFC,72.0,frozen human serum,95.0,37.0,DNA,1
+https://doi.org/10.1021/jacs.9b10460,GLB-G25,1tAFU1tG2tAFUFCAAFU1tFCGFCFCFUFCA1tAFUFUFCGAFCA1tGGAGGFC1tFUFC1tAFC,72.0,frozen human serum,95.0,37.0,DNA,1
+https://doi.org/10.1021/jacs.9b10460,GLB-A04,1tAFU1tGAFUFCAAFU1tFCGFCFCFUFCA1tAFUFUFCGAFCA2tGGAGGFC1tFUFC1tAFC,1.89,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1021/jacs.9b10460,GLB-A04 PEG,peg1tAFU1tGAFUFCAAFU1tFCGFCFCFUFCA1tAFUFUFCGAFCA2tGGAGGFC1tFUFC1tAFC,5.09,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1021/jacs.9b10460,GLB-G25 PEG,peg1tAFU1tG2tAFUFCAAFU1tFCGFCFCFUFCA1tAFUFUFCGAFCA1tGGAGGFC1tFUFC1tAFC,4.23,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1038/mt.2012.163,GL21.T,AUGAUCAAUCGCCUCAAUUCGACAGGAGGCUCAC,6.0,fetal bovine serum,10.0,37.0,RNA,0
+https://doi.org/10.1093/nar/gkm520,PG1,GGTTGGTGTGGTTGG,0.5,fetal bovine serum,10.0,37.0,DNA,0
+https://doi.org/10.1093/nar/gkm520,PG2,anaGanaGanaTanaTanaGanaGanaTanaGanaTanaGanaGanaTanaTanaGanaG,24.0,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG3,GanaGTTGanaGTGTGanaGTTGanaG,4.8,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG4,GanaGanaTanaTGanaGanaTanaGanaTGGTTGanaG,9.4,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG5,anaGGTTanaGGTGTGGTTanaGG,0.8,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG6,anaGGanaTanaTanaGGanaTanaGanaTanaGGanaTanaTanaGG,0.6,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG7,anaGanaGTTanaGanaGTGTanaGanaGTTanaGanaG,4.0,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG8,GGanaTanaTGGanaTanaGanaTGGanaTanaTGG,5.9,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG9,GGanaTanaTGGanaTGanaTGGanaTanaTGG,2.8,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG10,GGTanaTGGanaTGanaTGGTTGG,2.7,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG11,GGanaTanaTGGanaTGanaTGGanaTTGG,5.1,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG12,GGanaTanaTGGTGTGGanaTanaTGG,3.5,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG13,GGTTGGanaTGanaTGGanaTanaTGG,3.4,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,PG14,GGanaTanaTGGanaTGanaTGGTTGG,2.0,fetal bovine serum,10.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkm520,P8,GTCTCTTGTGTGACTCTGGTAAC,0.5,fetal bovine serum,10.0,37.0,DNA,0
+https://doi.org/10.1182/blood.V81.12.3271.3271,TBA,GGTTGGTGTGGTTGG,0.03,macaca fascicularis blood,100.0,38.25,DNA,0
+https://doi.org/10.1038/mtna.2015.30,aptamer against HCV NS5B,cholfUfUGAAfCGAfUfUGGfUAGfUAGAAfUAfUfCGfUfCAGidt,11.0,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1038/mtna.2015.30,aptamer against HCV NS5B,fUfUGAAfCGAfUfUGGfUAGfUAGAAfUAfUfCGfUfCAG,5.8,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1128/JVI.00405-13,chol–R-F t2,cholfUfUGAAfCGAfUfUGGfUAGfUAGAAfUAfUfCGfUfCAGidt,11.03,rat liver,100.0,38.8,RNA,1
+https://doi.org/10.1128/JVI.00405-13,Gal-PEG–R-F t2,gpegfUfUGAAfCGAfUfUGGfUAGfUAGAAfUAfUfCGfUfCAG,3.79,rat liver,100.0,38.8,RNA,1
+https://doi.org/10.1074/jbc.M112100200,"5′-,3′-inverted T AS",idtAGGGCGAGAAGGAAGAAGidt,30.0,fetal bovine serum,5.0,37.0,DNA,1
+https://doi.org/10.1074/jbc.M112100200,3′-inverted T AS,AGGGCGAGAAGGAAGAAGidt,110.0,fetal bovine serum,5.0,37.0,DNA,1
+https://doi.org/10.1074/jbc.M112100200,PS AS,tpAtpGtpGtpGtpCtpGtpAtpGtpAtpAtpGtpGtpAtpAtpGtpAtpAtpG,10.0,fetal bovine serum,5.0,37.0,DNA,1
+https://doi.org/10.1074/jbc.M112100200,"5′-,3′-non-inverted T AS",TAGGGCGAGAAGGAAGAAGT,5.0,fetal bovine serum,5.0,37.0,DNA,0
+https://doi.org/10.2165/00003088-199528010-00002,25-mer P,CTCTCGCACCCATCTCTCTCCTTCT,0.08,rhesus monkey blood,100.0,38.25,DNA,0
+https://pubmed.ncbi.nlm.nih.gov/8190109/,20-mer P,ACACCCAATTCTGAAAATGG,0.08,rat blood,100.0,38.8,DNA,0
+https://pubmed.ncbi.nlm.nih.gov/1981742/,12-mer M,mpTmpTmpCmpCmpTmpCmpCmpTmpGmpCmpGmpG,0.1,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.2165/00003088-199528010-00002,20-mer S,tpAtpCtpAtpCtpCtpCtpAtpAtpTtpTtpCtpTtpGtpAtpAtpAtpAtpTtpGtpG,0.53,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.2165/00003088-199528010-00002,GEM91,tpCtpTtpCtpTtpCtpGtpCtpAtpCtpCtpCtpAtpTtpCtpTtpCtpTtpCtpTtpCtpCtpTtpTtpCtpT,0.97,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.2165/00003088-199528010-00002,GEM91,tpCtpTtpCtpTtpCtpGtpCtpAtpCtpCtpCtpAtpTtpCtpTtpCtpTtpCtpTtpCtpCtpTtpTtpCtpT,0.8,rhesus monkey blood,100.0,38.25,DNA,1
+https://doi.org/10.2165/00003088-199528010-00002,GEM91,tpCtpTtpCtpTtpCtpGtpCtpAtpCtpCtpCtpAtpTtpCtpTtpCtpTtpCtpTtpCtpCtpTtpTtpCtpT,0.18,human blood,100.0,36.6,DNA,1
+https://doi.org/10.1074/jbc.M113.532580,SL1023,GGCAGGbnUbnUbnUGGbnUAbnUbnUAACACGbnUbnUAAGbnUCGbnUGGidt,50.0,frozen human serum,90.0,37.0,SOMAmer,1
+https://doi.org/10.1074/jbc.M113.532580,SL1023dT,GGCAGGTTTGGTATTAACACGTTAAGTCGTGGidt,5.5,frozen human serum,90.0,37.0,SOMAmer,1
+https://doi.org/10.1074/jbc.M113.532580,SL1031,GGGGnapUnapUAnapUGnapUAGCGAGnapUGCGnapUAAGGCGGnapUGidt,77.0,frozen human serum,90.0,37.0,SOMAmer,1
+https://doi.org/10.1074/jbc.M113.532580,SL1031dT,GGGGTTATGTAGCGAGTGCGTAAGGCGGTGidt,8.5,frozen human serum,90.0,37.0,SOMAmer,1
+https://doi.org/10.1002/j.1460-2075.1992.tb05244.x,hammerhead ribozyme against the EDB exon 426,alUalGalUalGalUalCAalAalAGalCalAalGalGalAalGalUalGalCalCalUalGalAGalUAGUalCalUalGalUalCalCalCalG,0.74,bovine serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1002/j.1460-2075.1992.tb05244.x,hammerhead ribozyme against the EDB exon 474,UGUGUCAAAGCAGGAGUGCCUGAGUAGUCUGUCCCG,0.016,bovine serum,100.0,37.0,ribozyme,0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,R32,CGGCAAAGCCGGAAAGCCGGAGUAGUCGGGGC,0.08,fetal bovine serum,0.1,37.0,ribozyme,0
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,DRD32,dCdGdGCAAAGCCGGAAAGCCGGAGUAGUCdGdGdGdGdC,0.08,fetal bovine serum,0.1,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,DRDRD32,dCdGdGCAAAGdCdCdGdGdAdAdAdGdCdCdGdGAGUAGUCdGdGdGdGdC,0.08,fetal bovine serum,0.1,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,thio-DRDRD32,dtpCdtpGdtpGCAAAtpGdtpCdtpCdtpGdtpGdtpAdtpAdtpAdtpGdtpCdtpCdtpGdtpGAGUAGUtpCdtpGdtpGdtpGdtpGdtpC,0.08,fetal bovine serum,0.1,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,thio-DRDRD32-3S,dtpCdtpGdtpGCAAAtpGdtpCdtpCdtpGdtpGdtpAdtpAdtpAdtpGdtpCdtpCdtpGdtpGAtpGUAtpGtpUtpCdtpGdtpGdtpGdtpGdtpC,15.73,fetal bovine serum,0.1,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,R32,CGGCAAAGCCGGAAAGCCGGAGUAGUCGGGGC,0.042,frozen human serum,20.0,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,DRDRD32,dCdGdGCAAAGdCdCdGdGdAdAdAdGdCdCdGdGAGUAGUCdGdGdGdGdC,0.67,frozen human serum,20.0,37.0,ribozyme,1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC309588/,thio-DRDRD32-2SA,dtpCdtpGdtpGCAAAtpGdtpCdtpCdtpGdtpGdtpAdtpAdtpAdtpGdtpCdtpCdtpGdtpGAGAAtpGtpUtpCdtpGdtpGdtpGdtpGdtpC,2.8,frozen human serum,20.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 1,UCUCCAUCUGAUGAGGCCGAAAGGCCGAAAAUCCCU,0.002,human serum,100.0,37.0,ribozyme,0
+https://doi.org/10.1074/jbc.270.43.25702,Rz 2,omeUomeComeUomeComeCAUCUGAUGAGGCCGAAAGGCCGAAAAomeUomeComeComeCU,0.002,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 3,tpUtpCtpUtpCtpCAUCUGAUGAGGCCGAAAGGCCGAAAAtpUtpCtpCtpCtpU,0.002,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 4,alUalCalUalCalCAalUalCalUGAalUGAGGCCGAAAGGCCGAAAAalUalCalCalCT,2.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 5,fUfCfUfCfCAfUfCfUGAfUGAGGfCfCGAAAGGfCfCGAAAAfUfCfCfCT,0.25,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 6,omeUomeComeUomeComeComeAomeUomeCUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,0.002,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 7,omeUomeComeUomeComeComeAomeUomeComeUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 8,omeUomeComeUomeComeComeAomeUomeCch2UGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.17,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 9,omeUomeComeUomeComeComeAomeUomeComeUGAch2UGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 10,omeUomeComeUomeComeComeAomeUomeCch2UGAch2UGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.17,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 11,omeUomeComeUomeComeComeAomeUomeC2fcUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,6.67,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 12,omeUomeComeUomeComeComeAomeUomeComeUGA2fcUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.17,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 13,omeUomeComeUomeComeComeAomeUomeC2fcUGA2fcUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,6.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 14,omeUomeComeUomeComeComeAomeUomeCfUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 15,omeUomeComeUomeComeComeAomeUomeComeUGAfUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 16,omeUomeComeUomeComeComeAomeUomeCfUGAfUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 17,omeUomeComeUomeComeComeAomeUomeCdUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.17,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 18,omeUomeComeUomeComeComeAomeUomeComeUGAdUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.17,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 19,omeUomeComeUomeComeComeAomeUomeCdUGAdUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,4.67,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 20,omeUomeComeUomeComeComeAomeUomeCanaUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,8.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 21,omeUomeComeUomeComeComeAomeUomeComeUGAanaUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.83,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 22,omeUomeComeUomeComeComeAomeUomeCanaUGAanaUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,8.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 23,omeUomeComeUomeComeComeAomeUomeCamUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,8.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 24,omeUomeComeUomeComeComeAomeUomeComeUGAamUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,8.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 25,omeUomeComeUomeComeComeAomeUomeCamUGAamUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 26,omeUomeComeUomeComeComeAomeUomeCalUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,8.33,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 27,omeUomeComeUomeComeComeAomeUomeComeUGAalUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 28,omeUomeComeUomeComeComeAomeUomeCalUGAalUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeU,5.0,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 29,omeUomeComeUomeComeComeAomeUomeCalUGAomeUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeUidt,266.67,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1074/jbc.270.43.25702,Rz 30,omeUomeComeUomeComeComeAomeUomeCamUGAamUGomeAomeGomeGomeComeComeGomeAomeAomeAomeGomeGomeComeCGomeAomeAAomeAomeUomeComeComeComeUidt,266.67,human serum,100.0,37.0,ribozyme,1
+https://doi.org/10.1089/oli.1.2000.10.63,LF1807 dC,dsaGGAGfUfCfUfUAGGfCAGfCGfCGfUfUfUfUfCGAGfCfUAfCfUfCfCAidt,0.165,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LF1807 bD,dspeamdTGGAGfUfCfUfUAGGfCAGfCGfCGfUfUfUfUfCGAGfCfUAfCfUfCfCAidtdT,0.178,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LF1807 d20,papeg20GGAGfUfCfUfUAGGfCAGfCGfCGfUfUfUfUfCGAGfCfUAfCfUfCfCAidt,0.86,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LF1807 b20,peg20amdTGGAGfUfCfUfUAGGfCAGfCGfCGfUfUfUfUfCGAGfCfUAfCfUfCfCAidtdT,1.17,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LF1807 d40,papeg40GGAGfUfCfUfUAGGfCAGfCGfCGfUfUfUfUfCGAGfCfUAfCfUfCfCAidt,3.8,rat blood,100.0,38.8,RNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD201 b,amTfCfCAGfTAfCAAGGfTGfCfTAAAfCGfTAAfTGGidtT,0.05,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD201 bD,dspeamTfCfCAGfTAfCAAGGfTGfCfTAAAfCGfTAAfTGGidtT,0.285,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD201 a,fTAGfCfCAAGGfTAAfCfCAGfTAfCAAGGfTGfCfTAAAfCGfTAAfTGGfCfTfTfCGGfCfTfTAfC,0.12,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD201 b20,peg20amTfCfCAGfTAfCAAGGfTGfCfTAAAfCGfTAAfTGGidtT,0.375,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD201 d20,papeg20fTAGfCfCAAGGfTAAfCfCAGfTAfCAAGGfTGfCfTAAAfCGfTAAfTGGfCfTfTfCGGfCfTfTAfCidtT,0.2,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/oli.1.2000.10.63,LD174 b40,peg40amTfTAGfCfCAfTfTfCAfCfCAfTGGfCfCfCfCfTfTfCfCfTAfCGfTAfTGfTfTfCfTGfCGGGfTGGfCfTfTAidtT,0.253,rat blood,100.0,38.8,DNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA T,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCCidt,8.2,human serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA C,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCC,4.9,human serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR T,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfCidt,12.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR C,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfC,10.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH T,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeCidt,240.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH C,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeC,240.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe T,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeCidt,240.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe C,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeC,240.0,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,A9.min,thiolGGGAfCfCGAAAAAGAfCfCfUGAfCfUfUfCfUAfUAfCfUAAGfUfCfUAfCGfUfUfCfCfCidt,3.8,human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA T,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCCidt,16.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA C,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCC,6.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR T,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfCidt,9.9,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR C,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfC,11.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH T,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeCidt,240.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH C,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeC,240.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe T,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeCidt,240.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe C,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeC,240.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,A9.min,thiolGGGAfCfCGAAAAAGAfCfCfUGAfCfUfUfCfUAfUAfCfUAAGfUfCfUAfCGfUfUfCfCfCidt,8.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA T,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCCidt,1.8,mouse serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,DNA C,thiolGGCGTAGTGATTATGAATCGTGTGCTAATACACGCC,1.6,mouse serum,100.0,37.0,DNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR T,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfCidt,2.5,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fYrR C,thiolGGfCGfUAGfUGAfUfUAfUGAAfUfCGfUGfUGfCfUAAfUAfCAfCGfCfC,2.2,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH T,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeCidt,180.0,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,fGmH C,thiolfGfGomeCfGomeUomeAfGomeUfGomeAomeUomeUomeAomeUfGomeAomeAomeUomeCfGomeUfGomeUfGomeComeUomeAomeAomeUomeAomeComeAomeCfGomeComeC,110.0,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe T,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeCidt,230.0,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,OMe C,thiolomeGomeGomeComeGomeUomeAomeGomeUomeGomeAomeUomeUomeAomeUomeGomeAomeAomeUomeComeGomeUomeGomeUomeGomeComeUomeAomeAomeUomeAomeComeAomeComeGomeComeC,75.0,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1089/nat.2017.0680,A9.min,thiolGGGAfCfCGAAAAAGAfCfCfUGAfCfUfUfCfUAfUAfCfUAAGfUfCfUAfCGfUfUfCfCfCidt,2.5,mouse serum,100.0,37.0,RNA,1
+https://doi.org/10.1016/S0002-9440(10)65263-7,PDGF aptamer,CAGGCTACGGCACGTAGAGCATCACCATGATCCTGidt,0.6,rat serum,85.0,37.0,DNA,0
+https://doi.org/10.1016/S0002-9440(10)65263-7,PDGF aptamer modified,peg40CAGGCfrUAfComeGheglCGTAomeGAomeGCAfrUfCAheglTGATfCfCfrUomeGidt,8.0,rat serum,85.0,37.0,DNA,1
+https://doi.org/10.1016/S0002-9440(10)65263-7,PDGF aptamer modified,peg40CAGGCfrUAfComeGheglCGTAomeGAomeGCAfrUfCAheglTGATfCfCfrUomeGidt,0.54,rat blood,100.0,37.0,DNA,1
+https://doi.org/10.1016/j.biomaterials.2014.08.046,WT A12,UGUAAUUCUGCCAUUCUUUUUGGGGCGGAAUACAGGAUGU,0.08,rat serum,10.0,37.0,RNA,0
+https://doi.org/10.1016/j.biomaterials.2014.08.046,bmA12,fUGfUAAfUfUfCfUGfCfCAfUfUfCfUfUfUfUfUGGGGfCGGAAfUAfCAGGAfUGfU,15.0,rat serum,10.0,37.0,RNA,1
+https://doi.org/10.1016/j.biomaterials.2014.08.046,tmA12,omeUGomeUomeAomeAomeUomeUomeComeUGomeComeComeAomeUomeUomeComeUomeUomeUomeUomeUGGGGomeCGGomeAomeAomeUomeAomeComeAGGomeAomeUGomeU,29.5,rat serum,10.0,37.0,RNA,1
+https://doi.org/10.1016/j.biomaterials.2014.08.046,fmA12,omeUfGomeUomeAomeAomeUomeUomeComeUfGomeComeComeAomeUomeUomeComeUomeUomeUomeUomeUfGfGfGfGomeCfGfGomeAomeAomeUomeAomeComeAfGfGomeAomeUfGomeU,52.0,rat serum,10.0,37.0,RNA,1
+https://doi.org/10.1111/j.1538-7836.2012.04679.x,RNAR9D-14T,GGfCGGfUfCGAfUfCAfCAfCAGfUfUfCAAAfCGfUAAfUAAGfCfCAAfUGfUAfCGAGGfCAGAfCGAfCfUfCGfCfC,6.0,frozen human serum,100.0,37.0,RNA,1
+https://doi.org/10.1111/j.1538-7836.2012.04679.x,ARC-183,GGTTGGTGTGGTTGG,2.0,frozen human serum,100.0,37.0,DNA,0
+https://doi.org/10.1074/jbc.271.10.5698,T30177,GtpTGGTGGGTGGGTGGGtpT,100.0,bovine serum,100.0,37.0,DNA,1
+https://doi.org/10.1074/jbc.271.10.5698,T30175,GTGGTGGGTGGGTGGGT,5.0,bovine serum,100.0,37.0,DNA,0
+https://doi.org/10.1074/jbc.271.10.5698,T30527,TtpGTAGCTGCAATTCACtpG,0.12,bovine serum,100.0,37.0,DNA,1
+https://doi.org/10.1074/jbc.271.10.5698,T30526,GTGATGGGTGGGTGGGT,0.05,bovine serum,100.0,37.0,DNA,0
+https://doi.org/10.1074/jbc.271.10.5698,T30523,TGTAGCTGCAATTCACG,0.05,bovine serum,100.0,37.0,DNA,0
+https://doi.org/10.1089/108729002761381276,RS5,TGAGGGGCAGGCTAGCTACAACGACGTCGTGAC,75.0,frozen human serum,100.0,37.0,DNAzyme,0
+https://doi.org/10.1089/108729002761381276,RS6,TGAGGGGCAGGCTAGCTACAACGACGTCGTGAiC,21.0,frozen human serum,100.0,37.0,DNAzyme,1
+https://doi.org/10.1089/108729002761381276,RS5,TGAGGGGCAGGCTAGCTACAACGACGTCGTGAC,75.0,human plasma,100.0,37.0,DNAzyme,0
+https://doi.org/10.1089/108729002761381276,RS6,TGAGGGGCAGGCTAGCTACAACGACGTCGTGAiC,21.0,human plasma,100.0,37.0,DNAzyme,1
+https://doi.org/10.1089/ard.1992.2.129,SV40TAS35,TCTCTGTTTAAAACTTTATCCATCTTTGCAAAGCT,0.33,human serum,100.0,37.0,DNA,0
+https://doi.org/10.1089/ard.1992.2.129,SV40TAS35-INV,iTCTCTGTTTAAAACTTTATCCATCTTTGCAAAGCidt,30.0,human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,DNA 1,CATGTCATGACGGTTAGG,1.5,frozen human serum,100.0,37.0,DNA,0
+https://doi.org/10.1093/nar/30.9.1911,PS,tpCtpAtpTtpGtpTtpCtpAtpTtpGtpAtpCtpGtpGtpTtpTtpAtpGtpG,10.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,LNA 20,lnaCATGTCATGACGGTTAGlnaG,4.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,LNA 19,lnaClnaATGTCATGACGGTTAlnaGlnaG,5.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,LNA 18,lnaClnaAlnaTGTCATGACGGTTlnaAlnaGlnaG,17.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,LNA 17,lnaClnaAlnaTlnaGTCATGACGGTlnaTlnaAlnaGlnaG,15.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,LNA 16,lnaClnaAlnaTlnaGlnaTCATGACGGlnaTlnaTlnaAlnaGlnaG,15.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1093/nar/30.9.1911,OMe 4,omeComeAomeTomeGTCATGACGGTomeTomeAomeGomeG,12.0,frozen human serum,100.0,37.0,DNA,1
+https://doi.org/10.1248/bpb.18.474,ODN PO,ATGGAGAAAAAAATC,1.01,human plasma,40.0,37.0,DNA,0
+https://doi.org/10.1248/bpb.18.474,ODN SO,tpAtpTtpGtpGtpAtpGtpAtpAtpAtpAtpAtpAtpAtpTtpC,5.32,human plasma,40.0,37.0,DNA,1
+https://doi.org/10.1248/bpb.18.474,ODN PEG-PO,halpegATGGAGAAAAAAATC,2.37,human plasma,40.0,37.0,DNA,1
+https://doi.org/10.1248/bpb.18.474,ODN PO,ATGGAGAAAAAAATC,0.64,mouse plasma,40.0,37.0,DNA,0
+https://doi.org/10.1248/bpb.18.474,ODN SO,tpAtpTtpGtpGtpAtpGtpAtpAtpAtpAtpAtpAtpAtpTtpC,3.78,mouse plasma,40.0,37.0,DNA,1
+https://doi.org/10.1248/bpb.18.474,ODN PEG-PO,halpegATGGAGAAAAAAATC,1.05,mouse plasma,40.0,37.0,DNA,1
+https://doi.org/10.1093/nar/gkh862,Tenascin-C TTA1,mag2halGomeGomeGomeAomeGomeGomeAfCGheglfCGfUfCGfCfComeGfUomeAomeAfUomeGomeGomeAfUomeGfUfUfUfUomeGfCfUfCfCfCfUomeGidt,42.0,heparinized human plasma,100.0,37.0,RNA,1
+https://doi.org/10.1093/nar/gkh862,Tenascin-C TTA1.1,mag2halomeGomeGomeGomeAomeGomeGomeAfCGheglfCGfUfCGfCfComeGfUomeAomeAfUomeGomeGomeAfUomeGfUfUfUfUomeGomeComeUomeComeComeCfUomeGidt,49.0,heparinized human plasma,100.0,37.0,RNA,1
+https://doi.org/10.1093/nar/gkh862,Tenascin-C TTA1.2,mag2hallnaGlnaGlnaGlnaAlnaGomeGomeAfCGheglfCGfUfCGfCfComeGfUomeAomeAfUomeGomeGomeAfUomeGfUfUfUfUomeGlnaClnaUlnaClnaClnaCfUomeGidt,53.0,heparinized human plasma,100.0,37.0,RNA,1
+https://doi.org/10.1093/nar/gkh862,Tenascin-C TTA1.3,dTdTdTdTlnaGlnaGlnaGlnaAlnaGlnaGlnaAlnaClnaGhegllnaClnaGlnaUfCGfCfComeGfUomeAomeAfUomeGomeGomeAfUomeGfUfUfUfUomeGlnaClnaUlnaClnaClnaCfUomeGidt,69.0,heparinized human plasma,100.0,37.0,RNA,1
+https://doi.org/10.1093/nar/gkh862,Tenascin-C TTA1.4,dTdTdTdTlnaGlnaGlnaGlnaAlnaGomeGomeAfCGheglfCGfUfCGfCfComeGfUlnaAlnaAlnaUomeGomeGomeAfUlnaGlnaUlnaUfUfUomeGlnaClnaUlnaClnaClnaCfUomeGidt,72.0,heparinized human plasma,100.0,37.0,RNA,1
+https://doi.org/10.1038/s41587-022-01337-8,D-6,CGGATCCAGTTACGGACTGAACAGAAGGGTGGTGTGGTTGGACTGTTCA,1.7,frozen human serum,10.0,37.0,DNA,0
+https://doi.org/10.1038/s41587-022-01337-8,D-6,CGGATCCAGTTACGGACTGAACAGAAGGGTGGTGTGGTTGGACTGTTCA,2.1,frozen human serum,83.0,37.0,DNA,0
+https://doi.org/10.1038/nbt0996-1112,D-A42d,CUCGGUACCGCAAAAGCGUUUUUCGCAUACCUAUUCGUUAUAGGUCGAUUGUACCGG,0.002,frozen human serum,90.0,37.0,RNA,0
+https://doi.org/10.1038/nbt0996-1112,L-A42d,lClUlClGlGlUlAlClClGlClAlAlAlAlGlClGlUlUlUlUlUlClGlClAlUlAlClClUlAlUlUlClGlUlUlAlUlAlGlGlUlClGlAlUlUlGlUlAlClClGlG,120.0,frozen human serum,90.0,37.0,L-RNA,1
+https://doi.org/10.1073/pnas.94.21.11285,control DNA,GAGGGCTCTAAGCAGGTTATTAATCATCTAAAGCGTAGTTTTCGTCGTTTGAGACTATTTT,33.0,frozen human serum,95.0,37.0,DNA,0
+https://doi.org/10.1073/pnas.94.21.11285,D aptamer,TCACGTGCATGATAGACGGCGAAGCCGTCGAGTTGCTGTGTGCCGATGCACGTGA,33.0,frozen human serum,95.0,37.0,DNA,0
+https://doi.org/10.1073/pnas.94.21.11285,control DNA,GAGGGCTCTAAGCAGGTTATTAATCATCTAAAGCGTAGTTTTCGTCGTTTGAGACTATTTT,1.9,fetal bovine serum,95.0,37.0,DNA,0
+https://doi.org/10.1073/pnas.94.21.11285,D aptamer,TCACGTGCATGATAGACGGCGAAGCCGTCGAGTTGCTGTGTGCCGATGCACGTGA,2.5,fetal bovine serum,95.0,37.0,DNA,0
+https://doi.org/10.1093/nar/gkh705,RNA1,p32p32p32AGUCCGAAUUCACGU,0.003,human serum,50.0,37.0,RNA,0
+https://doi.org/10.1093/nar/gkh705,thioRNA1,p32p32p32t4At4Gt4Ut4Ct4Ct4Gt4At4At4Ut4Ut4Ct4At4Ct4Gt4U,1.78,human serum,50.0,37.0,RNA,1
