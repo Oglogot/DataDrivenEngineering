@@ -191,36 +191,3 @@ for trace in box_fig['data']:
 # Настройка макета
 fig.update_layout(barmode='stack', showlegend=True, title_text="Распределение значений периода полураспада среди модифицированных и немодифицированных последовательностей", height=600,  width=1200) 
 st.plotly_chart(fig)
-
-# Создание подграфиков
-fig = make_subplots(rows=1, cols=2, subplot_titles=("Гистограмма ", "Box Plot"), column_widths=[0.5, 0.5])
-# Добавление гистограммы
-hist_fig = px.histogram(df, x = "Stability t1/2, h", color = 'Environment',
-         color_discrete_sequence = colors, category_orders={"Environment": sorted(df['Environment'].unique())},
-         opacity = 0.7)
-for trace in hist_fig['data']:
-    fig.add_trace(trace, row=1, col=1)
-# Добавление box диаграммы
-counts_dict = df.groupby('Environment').size().to_dict()  # Получаем количество значений для каждой категории в словарь
-box_fig = px.box(df, y="Stability t1/2, h", x="Environment", color="Environment",
-        color_discrete_sequence=colors, category_orders={"Environment": sorted(df['Environment'].unique())},
-        hover_data={'Environment': True})  
-# Настраиваем hovertemplate для отображения количества значений
-for trace in box_fig['data']:
-    trace.hovertemplate = 'Environment: %{x}<br>Count: %{hovertext}<extra></extra>'
-    trace.hovertext = [counts_dict[cat] for cat in trace.x]  # Назначаем количество значений для каждого следа
-    fig.add_trace(trace, row=1, col=2)  # Добавляем каждый след на график
-# Настройка макета
-fig.update_layout(barmode='stack', showlegend=True, title_text="Распределение значений периода полураспада среди с учетом различных сред", height=600,  width=1200) 
-st.plotly_chart(fig)
-
-#Построение пузырьковой диаграммы
-fig = px.scatter(df, x="Concentration of envi, %", y="Stability t1/2, h", color="Environment",
-                color_discrete_sequence = colors, 
-                category_orders={"Environment": sorted(df['Environment'].unique())},
-                title='Зависимость периода полураспада от концентрации среды', height=600,  width=900
-         )  
-#Вывод графика 
-st.plotly_chart(fig)
-
-
