@@ -45,4 +45,4 @@
 Приложение развернуто на Streamlit Cloud по ссылке https://datadrivenengineering-jras4akq8jyk993gkx2rxp.streamlit.app/.
 
 Внешний вид приложения:
-![Внешний вид приложения](https://https://github.com/Oglogot/DataDrivenEngineering/blob/main/plots/Dashboard.png)
+![Внешний вид приложения](https://github.com/Oglogot/DataDrivenEngineering/raw/main/plots/Dashboard.png)
